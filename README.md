@@ -8,8 +8,8 @@ EditTexts, Buttons, etc. Imitando la Activity de una aplicacion en este caso el 
   * Android Studio 2.3.1
   * Gradle 2.3.1
   * minSdkVersion 21
-
-## Uso
+ Uso
+ -------
 
 Para probar este ejemplo clona este repositorio de la siguiente forma:
 >
@@ -21,5 +21,6 @@ Dentro de Android Studio:
 * Seleccionas la ruta donde hiciste el clone del proyecto.
 * Build --> Rebuild Project
 * Run
-## Captura
-![Captura de pantalla](imagenes/Captura)
+Captura
+-----------
+<img src="TareaActivity1/captura.png" width="250"/>
