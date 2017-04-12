@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">TareaActivity1</string>
+    <string name="crear_cuenta">Crear cuenta</string>
+    <string name="cuentas_microsoft">Con las cuentas Microsoft se abre todo un \n mundo de ventajas</string>
+    <string name="tcheck">Enviarme correo electrònico \n promocional de Microsoft</string>
+    <string name="numero_ref">Usar un  numero de telefono en su lugar</string>
+    <string name="correo_nuevo">Obtener una nueva direccion de correo \n electronico</string>
+    <string name="al">Al elegir</string>
+    <string name="siguiente">Siguiente</string>
+    <string name="acepta">acepta la</string>
+    <string name="privacidad">Declaracion de privacidad</string>
+    <string name="y">y el</string>
+    <string name="contrato">Contrato de servicios de Microsoft</string>
+    <string name="microsoft">Microsoft</string>
+    <string name="correo">alguien@example.com</string>
+    <string name="password">Crea una contraseña</string>
+
+
+</resources>
