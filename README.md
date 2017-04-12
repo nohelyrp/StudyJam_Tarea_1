@@ -24,4 +24,4 @@ Dentro de Android Studio:
 
 Captura
 -----------
-![Texto alternativo](/android/tarea_Activity/TareaActivity1Captura.jpg "Captura")
+![Texto alternativo](/android/tarea_Activity/TareaActivity1/Captura.jpg "Captura")
