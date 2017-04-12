@@ -21,6 +21,7 @@ Dentro de Android Studio:
 * Seleccionas la ruta donde hiciste el clone del proyecto.
 * Build --> Rebuild Project
 * Run
+
 Captura
 -----------
-<img src="TareaActivity1/captura.png" width="250"/>
+![Texto alternativo](/android/tarea_Activity/TareaActivity1Captura.jpg "Captura")
