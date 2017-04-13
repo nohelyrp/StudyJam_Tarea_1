@@ -24,5 +24,18 @@ Dentro de Android Studio:
 
 Captura
 -----------
-![Texto alternativo](/android/tarea_Activity/TareaActivity1/Captura.jpg "Captura")
-<img src="imagenes_tarea/Captura.jpg" width="250"/>
+<div align="center">
+    <center>
+        <table border="0">
+            <tr>
+                <td>
+                    <img src="/img/Captura.jpg" width="200">
+                </td>
+                <td>
+                    <img src="/img/gif.gif" width="200">
+                </td>
+            </tr>
+        </table>
+    </center>
+</div>
+
